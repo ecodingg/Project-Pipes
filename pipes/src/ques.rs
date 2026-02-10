@@ -16,19 +16,4 @@ fn ques(temp_id: i32, temp_name: String, temp_description: String, temp_length: 
     ques.light = temp_light;
     ques.sound = temp_sound;
     ques.projection = temp_projection;
-
-    if (ques.light == True)
-    {
-        
-    }
-
-    if (ques.sound == True)
-    {
-
-    }
-
-    if (ques.projection == True)
-    {
-
-    }
 }
